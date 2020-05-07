@@ -22,6 +22,8 @@ Read the code here before adding it to your browser to make certain it doesn't d
 2. Turn on developer mode in [chrome extension settings](chrome://extensions/)
 3. Click "Load unpacked" and select the folder with the files.
 
+
+
 Project Ideas
 -------------
 Build an anti-distraction plugin.
