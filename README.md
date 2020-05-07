@@ -22,6 +22,7 @@ Read the code here before adding it to your browser to make certain it doesn't d
 2. Turn on developer mode in [chrome extension settings](chrome://extensions/)
 3. Click "Load unpacked" and select the folder with the files.
 
+![chrome extension UI](https://user-images.githubusercontent.com/1627760/81351702-905b2380-908a-11ea-83df-9e459e65c2e1.png)
 
 
 Project Ideas
