@@ -1,0 +1,16 @@
+{
+  "name": "Chrome Extension Boilerplate",
+  "version": "1.0",
+  "description": "homemade browser plugin",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://www.google.com/*"],
+      "js": ["contentscript.js"]
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
